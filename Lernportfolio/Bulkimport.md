@@ -25,5 +25,5 @@ Für dass muss man aber achtung geben da es für normal blockiert ist man muss f
 ![image](https://github.com/user-attachments/assets/b8410e97-3539-4378-9421-e27627fc1fb6)
 ### Finde redundante Datensätze
 Die ausgangs position ist: ![image](https://github.com/user-attachments/assets/804d06c4-c8c1-489f-96b4-c79980893554)
-* dann macht man eine temporäre tabelle: ![image](https://github.com/user-attachments/assets/62e5a333-bf23-46a2-8b32-2e9ad7d9be56) ![image](https://github.com/user-attachments/assets/c3a345e3-70a9-4e4d-88ee-b4316cfdc228)
+* dann macht man eine temporäre tabelle (Min nimmt nur die id 1 max würde id 4 nehmen): ![image](https://github.com/user-attachments/assets/62e5a333-bf23-46a2-8b32-2e9ad7d9be56) ![image](https://github.com/user-attachments/assets/c3a345e3-70a9-4e4d-88ee-b4316cfdc228)
 * Update die Fk's und ersetzte die alte tabelle: ![Uploading image.png…]()
