@@ -1,4 +1,4 @@
-## Partitionierung von Datenbanktabellen
+# Partitionierung von Datenbanktabellen
 
 Die **Partitionierung von Datenbanktabellen** ist eine Technik zur Aufteilung großer Datenmengen,  
 um die **Leistung und Verfügbarkeit** zu verbessern.
