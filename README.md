@@ -21,3 +21,4 @@ Man sieht auch was ich gelernt habe da ich das aufschreibe was ich verstanden ha
 *  Wie geht ein [Select mit einem Alias](https://github.com/Nick-ze/M164_DeuDe/blob/main/Lernportfolio/Select%20with%20Alias.md)?
 *  Was sind [Subquery's](https://github.com/Nick-ze/M164_DeuDe/blob/main/Lernportfolio/Subquery.md)?
 *  Was ist eine [Storage engine](https://github.com/Nick-ze/M164_DeuDe/blob/main/Lernportfolio/Was%20ist%20eine%20storage%20engine%3F.md) einfach gesagt?
+*  Was ist ein [CTE](https://github.com/Nick-ze/M164_DeuDe/blob/main/Lernportfolio/Common%20Table%20Expressions%20CTEs.md)?
