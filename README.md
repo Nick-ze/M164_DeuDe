@@ -22,3 +22,4 @@ Man sieht auch was ich gelernt habe da ich das aufschreibe was ich verstanden ha
 *  Was sind [Subquery's](https://github.com/Nick-ze/M164_DeuDe/blob/main/Lernportfolio/Subquery.md)?
 *  Was ist eine [Storage engine](https://github.com/Nick-ze/M164_DeuDe/blob/main/Lernportfolio/Was%20ist%20eine%20storage%20engine%3F.md) einfach gesagt?
 *  Was ist ein [CTE](https://github.com/Nick-ze/M164_DeuDe/blob/main/Lernportfolio/Common%20Table%20Expressions%20CTEs.md)?
+*  Was sind [Stored Procedures](https://github.com/Nick-ze/M164_DeuDe/blob/main/Lernportfolio/Stored%20Procedures.md)?
